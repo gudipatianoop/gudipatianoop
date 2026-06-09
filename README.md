@@ -5,7 +5,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Anoop+Gudipati+👋;Java+Full+Stack+Developer;7%2B+Years+Building+Enterprise+Apps;Cloud+%7C+Microservices+%7C+React+%7C+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Anoop+Gudipati!;Java+Full+Stack+Developer;7%2B+Years+Building+Enterprise+Apps;Cloud+%7C+Microservices+%7C+React+%7C+Spring+Boot" alt="Typing SVG" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ I'm a **Java Full Stack Developer** with **7+ years of experience** building sca
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gudipatianoop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gudipatianoop&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=gudipatianoop&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ I'm a **Java Full Stack Developer** with **7+ years of experience** building sca
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gudipatianoop&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gudipatianoop&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -106,10 +106,10 @@ I'm a **Java Full Stack Developer** with **7+ years of experience** building sca
   <a href="mailto:gudipatianoop2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/gudipatianoop" target="_blank">
+  <a href="https://linkedin.com/in/anoopgudipati" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/anoopgudipati" target="_blank">
+  <a href="https://github.com/gudipatianoop" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
